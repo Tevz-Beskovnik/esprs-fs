@@ -34,7 +34,7 @@ I use vscode for most of my projects. I recommend having `rust-analyzer` install
 }
 ```
 
-Please note though that this config only works for riscv targets (`riscv32imac-esp-espidf`)
+This adds all the generated bindings to intelisense autocomplete. Please note though that this config only works for riscv targets (`riscv32imac-esp-espidf`)
 
 ## Running and flashing
 
